@@ -87,6 +87,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>hello-world-psc</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
